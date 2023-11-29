@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #3498db;
+            color: #fff;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Experienced Diplomat | Danish | Father</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am a 60-year-old father of a girl, born in Denmark. I hold degrees in law from the University of Copenhagen and in journalism from Columbia University. With extensive experience in diplomacy, I have had postings in Cairo, New York, Brussels (Danish permanent representation to the EU), and Berlin. Currently, I serve as the deputy head of mission at the Danish embassy in Paris.</p>
+    </section>
+
+</body>
+</html>
